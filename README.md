@@ -1,1 +1,1 @@
-# RUCHIT.AI
+# ruchit.ai
